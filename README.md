@@ -8,3 +8,6 @@ Today I Learned
 
 ### November 25, 2016
 - [Design Patterns & Refactoring](https://sourcemaking.com/) 
+
+### November 27, 2016
+- [When a good plan comes together: React project structure for scaling – The Reactionary](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/?utm_source=hashnode.com) 

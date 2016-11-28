@@ -11,3 +11,6 @@ Today I Learned
 
 ### November 27, 2016
 - [When a good plan comes together: React project structure for scaling – The Reactionary](http://thereactionary.net/when-a-good-plan-comes-together-react-project-structure-for-scaling/?utm_source=hashnode.com) 
+
+### November 28, 2016
+- [TypeScript 2.0: Built-In Type Declarations | Marius Schulz](https://blog.mariusschulz.com/2016/11/25/typescript-2-0-built-in-type-declarations) 

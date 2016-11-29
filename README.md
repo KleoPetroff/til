@@ -14,3 +14,6 @@ Today I Learned
 
 ### November 28, 2016
 - [TypeScript 2.0: Built-In Type Declarations | Marius Schulz](https://blog.mariusschulz.com/2016/11/25/typescript-2-0-built-in-type-declarations) 
+
+### November 29, 2016
+- [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.kpyxirlfu) 

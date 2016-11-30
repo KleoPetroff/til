@@ -17,3 +17,6 @@ Today I Learned
 
 ### November 29, 2016
 - [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.kpyxirlfu) 
+
+### November 30, 2016
+- [A beginner’s guide to writing documentation — Write the Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) 

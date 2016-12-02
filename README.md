@@ -23,3 +23,6 @@ Today I Learned
 
 ### December 2, 2016
 - [BOOKS | Derek Sivers](https://sivers.org/book) 
+
+### December 3, 2016
+- [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 

@@ -20,3 +20,6 @@ Today I Learned
 
 ### November 30, 2016
 - [A beginner’s guide to writing documentation — Write the Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) 
+
+### December 2, 2016
+- [BOOKS | Derek Sivers](https://sivers.org/book) 

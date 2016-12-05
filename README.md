@@ -26,3 +26,6 @@ Today I Learned
 
 ### December 3, 2016
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
+
+### December 5, 2016
+- [TypeScript Deep Dive · GitBook](https://www.gitbook.com/book/basarat/typescript/details) 

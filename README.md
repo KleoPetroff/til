@@ -29,3 +29,6 @@ Today I Learned
 
 ### December 5, 2016
 - [TypeScript Deep Dive · GitBook](https://www.gitbook.com/book/basarat/typescript/details) 
+
+### December 10, 2016
+- [The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code – JavaScript Scene – Medium](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.rj9b2bktz) 

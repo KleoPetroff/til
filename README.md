@@ -35,3 +35,6 @@ Today I Learned
 
 ### December 11, 2016
 - [A Monad in Practicality: First-Class Failures - Quils in Space](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html) 
+
+### December 15, 2016
+- [SurviveJS - Inferno - Blazing fast, React-like UI library - Interview with Dominic Gannaway](http://survivejs.com/blog/inferno-interview/) 

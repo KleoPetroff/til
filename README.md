@@ -38,3 +38,4 @@ Today I Learned
 
 ### December 15, 2016
 - [SurviveJS - Inferno - Blazing fast, React-like UI library - Interview with Dominic Gannaway](http://survivejs.com/blog/inferno-interview/) 
+- [Build your own summary tool! | The Tokenizer](https://thetokenizer.com/2013/04/28/build-your-own-summary-tool/) 

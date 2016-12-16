@@ -39,3 +39,6 @@ Today I Learned
 ### December 15, 2016
 - [SurviveJS - Inferno - Blazing fast, React-like UI library - Interview with Dominic Gannaway](http://survivejs.com/blog/inferno-interview/) 
 - [Build your own summary tool! | The Tokenizer](https://thetokenizer.com/2013/04/28/build-your-own-summary-tool/) 
+
+### December 16, 2016
+- [ReactJS: Props vs. State](http://lucybain.com/blog/2016/react-state-vs-pros/?utm_campaign=Fullstack%2BReact&utm_medium=web&utm_source=Fullstack_React_46) 

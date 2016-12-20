@@ -45,3 +45,4 @@ Today I Learned
 
 ### December 20, 2016
 - [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 
+- [One Sure-Fire Way to Improve Your Coding | Changelog](https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding) 

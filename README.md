@@ -42,3 +42,6 @@ Today I Learned
 
 ### December 16, 2016
 - [ReactJS: Props vs. State](http://lucybain.com/blog/2016/react-state-vs-pros/?utm_campaign=Fullstack%2BReact&utm_medium=web&utm_source=Fullstack_React_46) 
+
+### December 20, 2016
+- [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 

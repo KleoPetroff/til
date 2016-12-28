@@ -49,3 +49,6 @@ Today I Learned
 
 ### December 28, 2016
 - [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/) 
+
+### December 29, 2016
+- [Exploring functional JavaScript – Grzegorz Ziółkowski](https://gziolo.pl/2016/12/21/exploring-functional-javascript/) 

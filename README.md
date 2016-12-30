@@ -53,3 +53,6 @@ Today I Learned
 ### December 29, 2016
 - [Exploring functional JavaScript – Grzegorz Ziółkowski](https://gziolo.pl/2016/12/21/exploring-functional-javascript/) 
 - [Performance Calendar » Using Service Workers and Cache to Take Web Performance to a New Level](http://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/) 
+
+### December 30, 2016
+- [The myth of the “Real JavaScript Developer” – Brenna O'Brien / Front-Trends 2016 - YouTube](https://www.youtube.com/watch?v=Xt5qpbiqw2g) 

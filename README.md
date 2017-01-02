@@ -58,3 +58,6 @@ Today I Learned
 - [The myth of the “Real JavaScript Developer” – Brenna O'Brien / Front-Trends 2016 - YouTube](https://www.youtube.com/watch?v=Xt5qpbiqw2g) 
 - [11 Web Application Security Best Practices](http://www.keycdn.stfi.re/blog/web-application-security-best-practices/?sf=yjazlek#aa) 
 - [The little book about OS development](http://littleosbook.github.io/) 
+
+### January 2, 2017
+- [My most favorite talks in 2016](https://fettblog.eu/top-talks-to-watch-2016/) 

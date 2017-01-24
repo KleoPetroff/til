@@ -61,3 +61,6 @@ Today I Learned
 
 ### January 2, 2017
 - [My most favorite talks in 2016](https://fettblog.eu/top-talks-to-watch-2016/) 
+
+### January 24, 2017
+- [Forrst | How to keep up? - A question from umaar](http://zurb.com/forrst/posts/How_to_keep_up-yKZ) 

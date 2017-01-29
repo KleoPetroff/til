@@ -64,3 +64,6 @@ Today I Learned
 
 ### January 24, 2017
 - [Forrst | How to keep up? - A question from umaar](http://zurb.com/forrst/posts/How_to_keep_up-yKZ) 
+
+### January 29, 2017
+- [React 15.5 and 16 Umbrella · Issue #8854 · facebook/react](https://github.com/facebook/react/issues/8854) 

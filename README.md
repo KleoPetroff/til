@@ -67,3 +67,6 @@ Today I Learned
 
 ### January 29, 2017
 - [React 15.5 and 16 Umbrella · Issue #8854 · facebook/react](https://github.com/facebook/react/issues/8854) 
+
+### February 10, 2017
+- [List of Science Fair Project Ideas](http://www.sciencebuddies.org/science-fair-projects/science_project_ideas.php) 

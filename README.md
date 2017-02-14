@@ -70,3 +70,6 @@ Today I Learned
 
 ### February 10, 2017
 - [List of Science Fair Project Ideas](http://www.sciencebuddies.org/science-fair-projects/science_project_ideas.php) 
+
+### February 14, 2017
+- [Forward - Web Technology Summits, Workshops and Online Content](https://forwardcourses.com/lectures/track/javascript) 

@@ -73,3 +73,6 @@ Today I Learned
 
 ### February 14, 2017
 - [Forward - Web Technology Summits, Workshops and Online Content](https://forwardcourses.com/lectures/track/javascript) 
+
+### February 19, 2017
+- [Why you should consider technical debt to be real debt](https://blog.gitprime.com/consider-technical-debt-to-be-real-debt) 

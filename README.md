@@ -76,3 +76,6 @@ Today I Learned
 
 ### February 19, 2017
 - [Why you should consider technical debt to be real debt](https://blog.gitprime.com/consider-technical-debt-to-be-real-debt) 
+
+### February 26, 2017
+- [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) 

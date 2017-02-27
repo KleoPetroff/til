@@ -79,3 +79,6 @@ Today I Learned
 
 ### February 26, 2017
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) 
+
+### February 27, 2017
+- [Why Nothing Works Anymore - The Atlantic](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=twb) 

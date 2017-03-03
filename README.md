@@ -82,3 +82,6 @@ Today I Learned
 
 ### February 27, 2017
 - [Why Nothing Works Anymore - The Atlantic](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=twb) 
+
+### March 3, 2017
+- [The mythical 10x programmer - <antirez>](http://antirez.com/news/112?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

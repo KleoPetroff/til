@@ -89,3 +89,6 @@ Today I Learned
 
 ### March 5, 2017
 - [Reading Comprehension Strategies: How to Retain More of Everything You Read](http://jamesclear.com/reading-comprehension-strategies) 
+
+### March 7, 2017
+- [The Perfect Media Server: Plex and Automatic Bittorrent](https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/?utm_source=hashnode.com) 

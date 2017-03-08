@@ -92,3 +92,6 @@ Today I Learned
 
 ### March 7, 2017
 - [The Perfect Media Server: Plex and Automatic Bittorrent](https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/?utm_source=hashnode.com) 
+
+### March 8, 2017
+- [Writing good code: how to reduce the cognitive load of your code – Christian M. Mackeprang](https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/) 

@@ -95,3 +95,6 @@ Today I Learned
 
 ### March 8, 2017
 - [Writing good code: how to reduce the cognitive load of your code – Christian M. Mackeprang](https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/) 
+
+### March 11, 2017
+- [Design principles: Root of the problem](https://uxplanet.org/design-principles-root-of-the-problem-3389991c9e50#.s86afqmnp) 

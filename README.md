@@ -98,3 +98,6 @@ Today I Learned
 
 ### March 11, 2017
 - [Design principles: Root of the problem](https://uxplanet.org/design-principles-root-of-the-problem-3389991c9e50#.s86afqmnp) 
+
+### March 12, 2017
+- [An Introduction to GraphQL via the GitHub API - via @codeship | via @codeship](https://blog.codeship.com/an-introduction-to-graphql-via-the-github-api/) 

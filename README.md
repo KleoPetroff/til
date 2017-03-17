@@ -101,3 +101,6 @@ Today I Learned
 
 ### March 12, 2017
 - [An Introduction to GraphQL via the GitHub API - via @codeship | via @codeship](https://blog.codeship.com/an-introduction-to-graphql-via-the-github-api/) 
+
+### March 18, 2017
+- [WTF is JSX](https://jasonformat.com/wtf-is-jsx/) 

@@ -104,3 +104,6 @@ Today I Learned
 
 ### March 18, 2017
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/) 
+
+### March 24, 2017
+- [How to Read an Academic Article | Organizations and Markets](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) 

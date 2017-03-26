@@ -107,3 +107,6 @@ Today I Learned
 
 ### March 24, 2017
 - [How to Read an Academic Article | Organizations and Markets](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) 
+
+### March 26, 2017
+- [Aspect Oriented Programming in Javascript (ES5+\Typescript)](https://hackernoon.com/aspect-oriented-programming-in-javascript-es5-typescript-d751dda576d0#.8ou71fmgj) 

@@ -110,3 +110,6 @@ Today I Learned
 
 ### March 26, 2017
 - [Aspect Oriented Programming in Javascript (ES5+\Typescript)](https://hackernoon.com/aspect-oriented-programming-in-javascript-es5-typescript-d751dda576d0#.8ou71fmgj) 
+
+### March 27, 2017
+- [Let's Build a Compiler](http://compilers.iecc.com/crenshaw/) 

@@ -116,3 +116,6 @@ Today I Learned
 
 ### March 31, 2017
 - [Serverless Stack - Step-by-step tutorials for creating serverless React.js apps](http://serverless-stack.com/?utm_source=hashnode.com) 
+
+### April 3, 2017
+- [React-redux "connect" explained 🔗](https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/?utm_source=hashnode.com) 

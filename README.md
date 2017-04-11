@@ -120,3 +120,6 @@ Today I Learned
 ### April 3, 2017
 - [React-redux "connect" explained 🔗](https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/?utm_source=hashnode.com) 
 - [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/?utm_source=quora&utm_medium=What+are+the+http%3A%2F%2Fbit.ly+and+t.co+shortening+algorithms%3F&utm_campaign=quora) 
+
+### April 11, 2017
+- [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) 

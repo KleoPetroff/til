@@ -123,3 +123,6 @@ Today I Learned
 
 ### April 11, 2017
 - [Things You Should Never Do, Part I – Joel on Software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) 
+
+### April 17, 2017
+- [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/) 

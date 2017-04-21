@@ -126,3 +126,6 @@ Today I Learned
 
 ### April 17, 2017
 - [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/) 
+
+### April 22, 2017
+- [Exploring Netlify CMS: React & Git-based Content Management - Snipcart](https://snipcart.com/blog/netlify-cms-react-git-workflow?utm_source=JSK-128089&utm_medium=JSK-128089&utm_content=JSK-128089&utm_campaign=JSK-128089) 

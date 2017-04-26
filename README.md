@@ -129,3 +129,6 @@ Today I Learned
 
 ### April 22, 2017
 - [Exploring Netlify CMS: React & Git-based Content Management - Snipcart](https://snipcart.com/blog/netlify-cms-react-git-workflow?utm_source=JSK-128089&utm_medium=JSK-128089&utm_content=JSK-128089&utm_campaign=JSK-128089) 
+
+### April 26, 2017
+- [WebExtensions 101 - via @codeship | via @codeship](https://blog.codeship.com/webextensions-101/?utm_source=frontendfocus&utm_medium=email) 

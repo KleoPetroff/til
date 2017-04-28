@@ -132,3 +132,6 @@ Today I Learned
 
 ### April 26, 2017
 - [WebExtensions 101 - via @codeship | via @codeship](https://blog.codeship.com/webextensions-101/?utm_source=frontendfocus&utm_medium=email) 
+
+### April 28, 2017
+- [Research Blog: Experimental Nighttime Photography with Nexus and Pixel](https://research.googleblog.com/2017/04/experimental-nighttime-photography-with.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

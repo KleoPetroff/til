@@ -139,3 +139,4 @@ Today I Learned
 ### May 3, 2017
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) 
 - [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/?utm_source=jslive&utm_medium=sc&utm_campaign=glossary_javascript2#jit) 
+- [How to Write Shell Scripts with JavaScript — SitePoint](https://www.sitepoint.com/shell-scripts-javascript/) 

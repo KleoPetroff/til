@@ -135,3 +135,6 @@ Today I Learned
 
 ### April 28, 2017
 - [Research Blog: Experimental Nighttime Photography with Nexus and Pixel](https://research.googleblog.com/2017/04/experimental-nighttime-photography-with.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+
+### May 3, 2017
+- [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) 

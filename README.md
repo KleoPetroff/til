@@ -143,3 +143,6 @@ Today I Learned
 
 ### May 8, 2017
 - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/) 
+
+### May 10, 2017
+- [How To Interview Senior JavaScript Developers and Architects](https://www.logicroom.co/how-to-interview-senior-javascript-developers-and-architects/?utm_source=hashnode.com) 

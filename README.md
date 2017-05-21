@@ -146,3 +146,6 @@ Today I Learned
 
 ### May 10, 2017
 - [How To Interview Senior JavaScript Developers and Architects](https://www.logicroom.co/how-to-interview-senior-javascript-developers-and-architects/?utm_source=hashnode.com) 
+
+### May 21, 2017
+- [A16Z AI Playbook](http://aiplaybook.a16z.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

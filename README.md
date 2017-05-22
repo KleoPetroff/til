@@ -149,3 +149,6 @@ Today I Learned
 
 ### May 21, 2017
 - [A16Z AI Playbook](http://aiplaybook.a16z.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+
+### May 23, 2017
+- [Testing Made Easy: Better, Faster, Stronger Unit Tests and Integration Tests - Sessions by Pusher](https://pusher.com/sessions/meetup/js-monthly-london/testing-made-easy-better-faster-stronger-unit-tests-and-integration-tests) 

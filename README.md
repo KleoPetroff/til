@@ -152,3 +152,6 @@ Today I Learned
 
 ### May 23, 2017
 - [Testing Made Easy: Better, Faster, Stronger Unit Tests and Integration Tests - Sessions by Pusher](https://pusher.com/sessions/meetup/js-monthly-london/testing-made-easy-better-faster-stronger-unit-tests-and-integration-tests) 
+
+### May 24, 2017
+- [An essential guide to the serverless ecosystem | TechBeacon](https://techbeacon.com/essential-guide-serverless-ecosystem?utm_source=webopsweekly&utm_medium=email) 

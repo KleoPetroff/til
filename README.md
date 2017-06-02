@@ -158,3 +158,6 @@ Today I Learned
 
 ### May 30, 2017
 - [Production Progressive Web Apps with JavaScript Frameworks | CSS-Tricks](https://css-tricks.com/production-progressive-web-apps-javascript-frameworks/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 
+
+### June 2, 2017
+- [JS MythBusters, A JavaScript optimization handbook from a high level point of view.](https://mythbusters.js.org/#/) 

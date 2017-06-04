@@ -161,3 +161,6 @@ Today I Learned
 
 ### June 2, 2017
 - [JS MythBusters, A JavaScript optimization handbook from a high level point of view.](https://mythbusters.js.org/#/) 
+
+### June 4, 2017
+- [DNS Infrastructure at GitHub | GitHub Engineering](https://githubengineering.com/dns-infrastructure-at-github/) 

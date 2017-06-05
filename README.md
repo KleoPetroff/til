@@ -164,3 +164,6 @@ Today I Learned
 
 ### June 4, 2017
 - [DNS Infrastructure at GitHub | GitHub Engineering](https://githubengineering.com/dns-infrastructure-at-github/) 
+
+### June 5, 2017
+- [The Modern Javascript Tutorial](http://javascript.info/) 

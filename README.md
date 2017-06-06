@@ -167,3 +167,6 @@ Today I Learned
 
 ### June 5, 2017
 - [The Modern Javascript Tutorial](http://javascript.info/) 
+
+### June 6, 2017
+- [JSC 💕 ES6 | WebKit](https://webkit.org/blog/7536/jsc-loves-es6/?utm_source=hashnode.com) 

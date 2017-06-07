@@ -170,3 +170,6 @@ Today I Learned
 
 ### June 6, 2017
 - [JSC 💕 ES6 | WebKit](https://webkit.org/blog/7536/jsc-loves-es6/?utm_source=hashnode.com) 
+
+### June 8, 2017
+- [Successful Product Hunt Launch Plan | MeetNotes](https://meetnotes.co/blueprints/successful-product-hunt-launch-plan/) 

@@ -173,3 +173,6 @@ Today I Learned
 
 ### June 8, 2017
 - [Successful Product Hunt Launch Plan | MeetNotes](https://meetnotes.co/blueprints/successful-product-hunt-launch-plan/) 
+
+### June 9, 2017
+- [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) 

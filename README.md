@@ -176,3 +176,6 @@ Today I Learned
 
 ### June 9, 2017
 - [Network Protocols – Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) 
+
+### June 14, 2017
+- [Learn Redux by coding a Mini-Redux – Jakob Lind](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/?utm_source=hashnode.com) 

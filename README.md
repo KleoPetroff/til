@@ -180,3 +180,6 @@ Today I Learned
 ### June 14, 2017
 - [Learn Redux by coding a Mini-Redux – Jakob Lind](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/?utm_source=hashnode.com) 
 - [React State vs. Redux State: When and Why?](https://spin.atomicobject.com/2017/06/07/react-state-vs-redux-state/) 
+
+### June 17, 2017
+- [If you can’t explain something in simple terms, you don’t understand it](http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

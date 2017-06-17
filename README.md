@@ -183,3 +183,4 @@ Today I Learned
 
 ### June 17, 2017
 - [If you can’t explain something in simple terms, you don’t understand it](http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+- [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb?utm_source=hackernewsletter&utm_medium=email&utm_term=books) 

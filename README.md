@@ -189,3 +189,6 @@ Today I Learned
 - [A crash course in memory management ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/) 
 - [A cartoon intro to ArrayBuffers and SharedArrayBuffers ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/) 
 - [Avoiding race conditions in SharedArrayBuffers with Atomics ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/) 
+
+### June 21, 2017
+- [Building Consumable JavaScript APIs - Sessions by Pusher](https://pusher.com/sessions/meetup/front-end-london/building-consumable-javascript-apis?utm_source=JSK-147427&utm_medium=JSK-147427&utm_content=JSK-147427&utm_campaign=JSK-147427) 

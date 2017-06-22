@@ -195,3 +195,4 @@ Today I Learned
 
 ### June 22, 2017
 - [EventListenerOptions/explainer.md at gh-pages · WICG/EventListenerOptions](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md) 
+- [Building Consumable JavaScript APIs - Sessions by Pusher](https://pusher.com/sessions/meetup/front-end-london/building-consumable-javascript-apis?utm_source=JSK-147427&utm_medium=JSK-147427&utm_content=JSK-147427&utm_campaign=JSK-147427) 

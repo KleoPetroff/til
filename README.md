@@ -199,3 +199,6 @@ Today I Learned
 
 ### July 17, 2017
 - [How to Learn Faster with the Feynman Technique (Example Included) - YouTube](https://www.youtube.com/watch?v=_f-qkGJBPts) 
+
+### July 18, 2017
+- [Becoming comfortable with discomfort | Louder Than Ten](https://louderthanten.com/coax/becoming-comfortable-with-discomfort?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 

@@ -202,3 +202,6 @@ Today I Learned
 
 ### July 18, 2017
 - [Becoming comfortable with discomfort | Louder Than Ten](https://louderthanten.com/coax/becoming-comfortable-with-discomfort?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 
+
+### July 24, 2017 
+- [Reverse Engineering A Successful Lifestyle Business: Here’s Everything I’ve Learned From Reading IndieHackers.com](https://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

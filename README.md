@@ -205,3 +205,6 @@ Today I Learned
 
 ### July 24, 2017 
 - [Reverse Engineering A Successful Lifestyle Business: Here’s Everything I’ve Learned From Reading IndieHackers.com](https://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+
+### July 26, 2017 
+- [How to create a private Ethereum network](https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 

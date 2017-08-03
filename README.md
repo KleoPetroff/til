@@ -208,3 +208,6 @@ Today I Learned
 
 ### July 26, 2017 
 - [How to create a private Ethereum network](https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning) 
+
+### August 3, 2017 
+- [The Critical Request](https://css-tricks.com/the-critical-request/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=74) 

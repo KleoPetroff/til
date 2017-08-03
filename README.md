@@ -211,3 +211,4 @@ Today I Learned
 
 ### August 3, 2017 
 - [The Critical Request](https://css-tricks.com/the-critical-request/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=74) 
+- [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript) 

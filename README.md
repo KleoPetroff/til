@@ -212,3 +212,6 @@ Today I Learned
 ### August 3, 2017 
 - [The Critical Request](https://css-tricks.com/the-critical-request/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=74) 
 - [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript) 
+
+### August 9, 2017 
+- [Collaborative Editing in JavaScript: An Intro to Operational Transformation](https://davidwalsh.name/collaborative-editing-javascript-intro-operational-transformation) 

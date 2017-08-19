@@ -215,3 +215,6 @@ Today I Learned
 
 ### August 9, 2017 
 - [Collaborative Editing in JavaScript: An Intro to Operational Transformation](https://davidwalsh.name/collaborative-editing-javascript-intro-operational-transformation) 
+
+### August 19, 2017 
+- [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 

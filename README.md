@@ -218,3 +218,6 @@ Today I Learned
 
 ### August 19, 2017 
 - [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+
+### September 3, 2017 
+- [Software Architecture Patterns](https://medium.com/towards-data-science/software-architecture-patterns-98043af8028) 

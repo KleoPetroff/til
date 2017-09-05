@@ -221,3 +221,6 @@ Today I Learned
 
 ### September 3, 2017 
 - [Software Architecture Patterns](https://medium.com/towards-data-science/software-architecture-patterns-98043af8028) 
+
+### September 5, 2017 
+- [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome) 

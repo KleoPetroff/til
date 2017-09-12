@@ -227,3 +227,4 @@ Today I Learned
 
 ### September 12, 2017 
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/) 
+- [Electron white screen app startup](https://www.christianengvall.se/electron-white-screen-app-startup/) 

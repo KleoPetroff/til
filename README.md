@@ -224,3 +224,6 @@ Today I Learned
 
 ### September 5, 2017 
 - [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome) 
+
+### September 12, 2017 
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/) 

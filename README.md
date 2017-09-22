@@ -231,3 +231,6 @@ Today I Learned
 
 ### September 15, 2017 
 - [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec) 
+
+### September 22, 2017 
+- [How I got to 200 productive hours a month](https://www.indiehackers.com/@ivm/how-i-got-to-200-productive-hours-a-month-a8fff164a9?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-059&utm_medium=email) 

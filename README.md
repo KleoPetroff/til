@@ -234,3 +234,6 @@ Today I Learned
 
 ### September 22, 2017 
 - [How I got to 200 productive hours a month](https://www.indiehackers.com/@ivm/how-i-got-to-200-productive-hours-a-month-a8fff164a9?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-059&utm_medium=email) 
+
+### September 29, 2017 
+- [Closure Compiler Handbook: How to use Google's Closure Compiler](https://github.com/roman01la/closure-compiler-handbook#dead-code-elimination-and-tree-shaking) 

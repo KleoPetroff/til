@@ -237,3 +237,6 @@ Today I Learned
 
 ### September 29, 2017 
 - [Closure Compiler Handbook: How to use Google's Closure Compiler](https://github.com/roman01la/closure-compiler-handbook#dead-code-elimination-and-tree-shaking) 
+
+### November 26, 2017 
+- [Web Performance Optimization Stats](https://wpostats.com/) 

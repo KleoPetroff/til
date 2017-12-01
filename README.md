@@ -240,3 +240,6 @@ Today I Learned
 
 ### November 26, 2017 
 - [Web Performance Optimization Stats](https://wpostats.com/) 
+
+### December 1, 2017 
+- [Not Invented Here](http://wiki.c2.com/?NotInventedHere) 

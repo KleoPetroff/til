@@ -244,3 +244,6 @@ Today I Learned
 ### December 1, 2017 
 - [Not Invented Here](http://wiki.c2.com/?NotInventedHere) 
 - [How to Build an Effective Design Framework](https://www.toptal.com/designers/ui/design-framework?utm_campaign=blog_post_design_framework&utm_medium=email&utm_source=blog_subscribers&utm_campaign=Toptal%20Design%20Blog&utm_source=hs_email&utm_medium=email&utm_content=58653283&_hsenc=p2ANqtz-_-39DVtDebrCdovItkB0XhPPCC-8jhXih-mrw2KSFUTGmpfm63LmyrTZh1OJEGDAVxEO-u3AqyYPYii_AABo0vxsX31Q&_hsmi=58653283) 
+
+### December 2, 2017 
+- [AST Spec](https://github.com/babel/babylon/blob/master/ast/spec.md#classbody) 

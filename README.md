@@ -247,3 +247,4 @@ Today I Learned
 
 ### December 2, 2017 
 - [AST Spec](https://github.com/babel/babylon/blob/master/ast/spec.md#classbody) 
+- [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#environment) 

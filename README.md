@@ -248,3 +248,6 @@ Today I Learned
 ### December 2, 2017 
 - [AST Spec](https://github.com/babel/babylon/blob/master/ast/spec.md#classbody) 
 - [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#environment) 
+
+### December 8, 2017 
+- [Design Thinking – Great Questions Lead to Great Design](https://www.toptal.com/designers/product-design/design-thinking-great-questions?utm_campaign=Toptal%20Design%20Blog&utm_source=hs_email&utm_medium=email&utm_content=59123420&_hsenc=p2ANqtz--TcxDqb9E5CACOrY0KXscRvbYBktyBTkv7uIB4cJBS57YKm15b5hp1gPjiWXRsXpgSFR2L2_GMBWgjUbglrrsJHvGpEQ&_hsmi=59123420) 

@@ -258,3 +258,6 @@ Today I Learned
 
 ### December 22, 2017 
 - [Google Maps’s Moat](https://www.justinobeirne.com/google-maps-moat?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) 
+
+### December 29, 2017 
+- [The Top JavaScript Trends to Watch in 2018](https://x-team.com/blog/top-javascript-trends-2018/) 

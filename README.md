@@ -261,3 +261,6 @@ Today I Learned
 
 ### December 29, 2017 
 - [The Top JavaScript Trends to Watch in 2018](https://x-team.com/blog/top-javascript-trends-2018/) 
+
+### January 1, 2018 
+- [Follow Your Dream Career with Open Source. Personal Story](http://blog.mgechev.com/2017/12/28/career-development-open-source-get-started/) 

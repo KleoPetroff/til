@@ -264,3 +264,6 @@ Today I Learned
 
 ### January 1, 2018 
 - [Follow Your Dream Career with Open Source. Personal Story](http://blog.mgechev.com/2017/12/28/career-development-open-source-get-started/) 
+
+### January 2, 2018 
+- [Why side projects are important to our company](https://www.indiehackers.com/@td_evans/aa5c1cacba?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-073&utm_medium=email) 

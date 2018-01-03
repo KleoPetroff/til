@@ -267,3 +267,6 @@ Today I Learned
 
 ### January 2, 2018 
 - [Why side projects are important to our company](https://www.indiehackers.com/@td_evans/aa5c1cacba?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-073&utm_medium=email) 
+
+### January 4, 2018 
+- [Top 3 Technology Trends For 2018, Which Will Be A Game Changer](https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72) 

@@ -270,3 +270,6 @@ Today I Learned
 
 ### January 4, 2018 
 - [Top 3 Technology Trends For 2018, Which Will Be A Game Changer](https://codeburst.io/top-3-technology-trends-for-2018-which-will-be-a-game-changer-719de6e71a72) 
+
+### January 5, 2018 
+- [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) 

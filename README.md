@@ -276,3 +276,4 @@ Today I Learned
 - [OverTheWire: Wargames](http://overthewire.org/wargames/) 
 - [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/#defining-the-environment) 
 - [Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)](https://www.farnamstreetblog.com/mental-models/) 
+- [Brick By Brick: A free guide to building awesome communities](http://www.communitybuildingguide.com/) 

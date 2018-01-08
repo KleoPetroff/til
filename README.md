@@ -280,3 +280,4 @@ Today I Learned
 
 ### January 9, 2018 
 - [Robust Client-Side JavaScript – A Developer’s Guide](https://molily.de/robust-javascript/?utm_source=hackernewsletter&utm_medium=email&utm_term=books) 
+- [My Favorite Deep Learning Papers of 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 

@@ -282,3 +282,4 @@ Today I Learned
 - [Robust Client-Side JavaScript – A Developer’s Guide](https://molily.de/robust-javascript/?utm_source=hackernewsletter&utm_medium=email&utm_term=books) 
 - [My Favorite Deep Learning Papers of 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 
+- [Learning From Scratch by Thinking Fast and Slow with Deep Learning and Tree Search](https://davidbarber.github.io/blog/2017/11/07/Learning-From-Scratch-by-Thinking-Fast-and-Slow-with-Deep-Learning-and-Tree-Search/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 

@@ -284,3 +284,6 @@ Today I Learned
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 
 - [Learning From Scratch by Thinking Fast and Slow with Deep Learning and Tree Search](https://davidbarber.github.io/blog/2017/11/07/Learning-From-Scratch-by-Thinking-Fast-and-Slow-with-Deep-Learning-and-Tree-Search/?utm_source=hackernewsletter&utm_medium=email&utm_term=data) 
 - [The Modern Javascript Tutorial](http://javascript.info/) 
+
+### January 14, 2018 
+- [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_101) 

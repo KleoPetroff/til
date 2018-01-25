@@ -288,3 +288,6 @@ Today I Learned
 ### January 14, 2018 
 - [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_101) 
 - [The evidence behind strong claims about static vs. dynamic languages](https://danluu.com/empirical-pl/?utm_source=hashnode.com) 
+
+### January 25, 2018 
+- [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) 

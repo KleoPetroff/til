@@ -291,3 +291,6 @@ Today I Learned
 
 ### January 25, 2018 
 - [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) 
+
+### February 5, 2018 
+- [The Power of Serverless](https://thepowerofserverless.info/) 

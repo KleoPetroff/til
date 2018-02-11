@@ -294,3 +294,6 @@ Today I Learned
 
 ### February 5, 2018 
 - [The Power of Serverless](https://thepowerofserverless.info/) 
+
+### February 11, 2018 
+- [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/) 

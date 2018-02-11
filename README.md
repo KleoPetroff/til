@@ -297,3 +297,4 @@ Today I Learned
 
 ### February 11, 2018 
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/) 
+- [Node.js V8 internals: an illustrative primer](https://medium.com/@vardanator/node-js-v8-internals-an-illustrative-primer-83766e983bf6?ref=stackshare) 
